@@ -11,3 +11,4 @@ Instagram Clone Using Flutter
 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/bXol1n0.png)]
 
+<img src="https://i.imgur.com/bXol1n0.png" width="48">
