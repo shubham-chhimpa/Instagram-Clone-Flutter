@@ -2,4 +2,9 @@
 
 Instagram Clone Using Flutter
 
-## Getting Started
+## Demo
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cDEEfwBqLZw/0.jpg)]
+
+(https://youtu.be/cDEEfwBqLZw)
