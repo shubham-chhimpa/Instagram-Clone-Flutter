@@ -10,4 +10,5 @@ Instagram Clone Using Flutter
 (https://youtu.be/cDEEfwBqLZw)
 
 
-<img src="https://i.imgur.com/bXol1n0.png" width="100">
+<img src="https://i.imgur.com/bXol1n0.png" width="400">
+<img src="https://i.ibb.co/bgbp8qG/Screenshot-2019-09-30-13-31-02-039-io-github-shubhamchhimpa-insta-demo.png" width="400">
