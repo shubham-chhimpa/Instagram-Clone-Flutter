@@ -9,6 +9,5 @@ Instagram Clone Using Flutter
 
 (https://youtu.be/cDEEfwBqLZw)
 
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/bXol1n0.png)]
 
-<img src="https://i.imgur.com/bXol1n0.png" width="48">
+<img src="https://i.imgur.com/bXol1n0.png" width="100">
